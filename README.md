@@ -1,1 +1,1 @@
-This project was about convolutional neural networks 
+This project was about convolutional neural networks
